@@ -42,3 +42,13 @@ Some of the picture of the tripAdvisor clone website
 ## Profile Page:-
 
 ![image](https://user-images.githubusercontent.com/114043976/205490791-f3f54f3f-9a7e-41bd-86c5-325293678bb0.png)
+
+## Admin Panel:- 
+![image](https://user-images.githubusercontent.com/114043976/205505536-1bbfa6bb-428d-4d37-9577-71744fb5a6bb.png)
+![image](https://user-images.githubusercontent.com/114043976/205505590-c5f822b4-a87d-4867-8c91-9860eb627e7f.png)
+![image](https://user-images.githubusercontent.com/114043976/205505633-394edf86-9fa7-4d22-8421-6f09d456dea4.png)
+
+
+
+https://user-images.githubusercontent.com/114043976/205506002-712c6b16-a6a6-44f9-9464-4ce90968eb8d.mp4
+
